@@ -351,7 +351,8 @@ input:focus{
 }
 .hero__content .hero__btns{
     margin: 0 auto;
-    margin-left: 3rem;
+    margin-left: 6rem;
+    display: inline-block;
 }
 .hero__content > .btn{
     font-size: 1.8rem;
